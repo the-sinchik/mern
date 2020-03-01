@@ -1,0 +1,9 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "first touch mern stack",
+  "main": "app.js",
+  "repository": "https://github.com/the-sinchik/mern.git",
+  "author": "Sinitsin Nick <sinchik95@gmail.com>",
+  "license": "MIT"
+}
